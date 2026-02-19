@@ -1,0 +1,4 @@
+pynwb>=2.8.0
+hdmf>=3.14.0
+numpy
+pandas
